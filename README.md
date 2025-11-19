@@ -26,9 +26,9 @@ Our manufacturing infrastructure supports large-scale production of bridge crane
 
 CATET maintains rigorous quality management standards certified through international recognition:
 
-**[ISO Certification]([url](https://www.iso.org/certification.html))**: Our ISO 9001 quality management system ensures consistent manufacturing excellence across all production processes. ISO 14001 environmental management certification demonstrates our commitment to sustainable manufacturing practices.
+**[ISO Certification](https://www.iso.org/certification.html)**: Our ISO 9001 quality management system ensures consistent manufacturing excellence across all production processes. ISO 14001 environmental management certification demonstrates our commitment to sustainable manufacturing practices.
 
-**[CE Certification]([url](https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_en.htm))**: European CE marking on our crane equipment confirms compliance with EU safety, health, and environmental protection standards, enabling seamless market access throughout European Union member states.
+**[CE Certification](https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_en.htm)**: European CE marking on our crane equipment confirms compliance with EU safety, health, and environmental protection standards, enabling seamless market access throughout European Union member states.
 
 **Additional Certifications**: Products meet international safety standards including ASME (United States), CSA (Canada), and various regional regulatory requirements, supporting global distribution and operational compliance.
 
@@ -83,3 +83,4 @@ As a trusted crane manufacturer serving global industries, CATET Co., Ltd. remai
 
 
 **Experience the CATET advantage in crane manufacturing excellence. Contact us today for professional consultation and customized lifting solutions.**
+
