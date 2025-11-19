@@ -8,6 +8,10 @@ As a leading Chinese crane manufacturer, CATET operates state-of-the-art product
 
 Our manufacturing infrastructure supports large-scale production of bridge cranes, gantry cranes, electric hoists, and specialized transport solutions. Each product undergoes rigorous quality control processes, ensuring reliability and durability in demanding operational environments.
 
+![about us](https://btarocrane.com/wp-content/uploads/2025/09/p20250620173353a2564-1-768x576.webp)
+
+
+
 ##### Comprehensive Product Portfolio for Industrial Applications
 
 **Bridge Crane Systems**: Our overhead bridge cranes include single girder and double girder configurations, European-style designs, and explosion-proof variants. These industrial lifting systems serve steel mills, manufacturing plants, and warehousing facilities requiring precise load handling from 1 ton to 500+ tons capacity.
@@ -22,9 +26,9 @@ Our manufacturing infrastructure supports large-scale production of bridge crane
 
 CATET maintains rigorous quality management standards certified through international recognition:
 
-**ISO Certification**: Our ISO 9001 quality management system ensures consistent manufacturing excellence across all production processes. ISO 14001 environmental management certification demonstrates our commitment to sustainable manufacturing practices.
+**[ISO Certification]([url](https://www.iso.org/certification.html))**: Our ISO 9001 quality management system ensures consistent manufacturing excellence across all production processes. ISO 14001 environmental management certification demonstrates our commitment to sustainable manufacturing practices.
 
-**CE Certification**: European CE marking on our crane equipment confirms compliance with EU safety, health, and environmental protection standards, enabling seamless market access throughout European Union member states.
+**[CE Certification]([url](https://europa.eu/youreurope/business/product-requirements/labels-markings/ce-marking/index_en.htm))**: European CE marking on our crane equipment confirms compliance with EU safety, health, and environmental protection standards, enabling seamless market access throughout European Union member states.
 
 **Additional Certifications**: Products meet international safety standards including ASME (United States), CSA (Canada), and various regional regulatory requirements, supporting global distribution and operational compliance.
 
@@ -76,5 +80,6 @@ CATET continues investing in research and development, exploring emerging techno
 As a trusted crane manufacturer serving global industries, CATET Co., Ltd. remains committed to delivering superior lifting solutions that combine proven reliability, advanced technology, and exceptional value. Partner with CATET for your next crane equipment project and experience the difference of working with a leading Chinese crane manufacturer backed by decades of engineering excellence and worldwide customer satisfaction.
 
 ---
+
 
 **Experience the CATET advantage in crane manufacturing excellence. Contact us today for professional consultation and customized lifting solutions.**
